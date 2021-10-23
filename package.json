@@ -1,0 +1,14 @@
+{
+  "name": "custom-lodash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rolling-scopes-school/wizarty-JSFEGE.git",
+  "author": "Wizarty",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.3.0"
+  }
+}
