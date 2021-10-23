@@ -9,6 +9,9 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^27.3.0"
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "coverage": "^0.4.1"
   }
 }
